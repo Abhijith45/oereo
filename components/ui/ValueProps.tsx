@@ -51,14 +51,14 @@ const VALUE_PROPS = [
 
 export function ValueProps() {
   return (
-    <section id="why-aventra" className="py-20 md:py-28 px-4 md:px-8 max-w-7xl mx-auto">
+    <section id="why-oereo" className="py-20 md:py-28 px-4 md:px-8 max-w-7xl mx-auto">
       {/* Section Header */}
       <div className="flex flex-col items-center text-center max-w-[680px] mx-auto mb-16 space-y-3">
         <span className="caption-3 uppercase tracking-widest text-emerald-800 font-semibold">
           Uncompromised Quality
         </span>
         <h2 className="heading-2 text-[#181818]">
-          The Reason Travelers Choose Aventra
+          The Reason Travelers Choose Oereo
         </h2>
         <p className="body-2 text-[#575753]">
           We eliminate the friction of modern exploration, uniting rare access with attentive hospitality.

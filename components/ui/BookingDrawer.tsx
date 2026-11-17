@@ -115,7 +115,7 @@ export function BookingDrawer({ isOpen, onClose, preselectedTrip }: BookingDrawe
               Consultation Reserved
             </h4>
             <p className="body-4 text-[#575753] max-w-sm mx-auto">
-              Thank you, {name}. An Aventra expedition concierge will reach out to {email} within 24 hours.
+              Thank you, {name}. An Oereo expedition concierge will reach out to {email} within 24 hours.
             </p>
             <div className="p-4 rounded-2xl bg-white border border-[#E7E7E3] text-left space-y-1.5 max-w-sm mx-auto caption-2 text-[#575753]">
               <p><strong>Expedition:</strong> {trip}</p>
@@ -320,7 +320,7 @@ export function BookingDrawer({ isOpen, onClose, preselectedTrip }: BookingDrawe
 
         {/* Footer Note */}
         <div className="pt-3 border-t border-[#E7E7E3] text-center caption-4 text-[#888888] shrink-0">
-          Direct concierge assistance: 1-800-AVENTRA
+          Direct concierge assistance: 1-800-OEREO
         </div>
       </div>
     </div>

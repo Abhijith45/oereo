@@ -23,7 +23,7 @@ export function Navbar({ onOpenBooking }: NavbarProps) {
   const navLinks = [
     { label: "Destinations", href: "#destinations" },
     { label: "Experiences", href: "#experiences" },
-    { label: "Why Aventra", href: "#why-aventra" },
+    { label: "Why Oereo", href: "#why-oereo" },
     { label: "Reviews", href: "#reviews" },
     { label: "FAQ", href: "#faq" },
   ];
@@ -43,7 +43,7 @@ export function Navbar({ onOpenBooking }: NavbarProps) {
           <Link
             href="/"
             className="flex items-center gap-2 group outline-none"
-            aria-label="Aventra Travel Home"
+            aria-label="Oereo Travel Home"
           >
             <div
               className={`w-8 h-8 rounded-full flex items-center justify-center transition-transform duration-300 group-hover:scale-105 ${
@@ -58,7 +58,7 @@ export function Navbar({ onOpenBooking }: NavbarProps) {
                   scrolled ? "text-[#181818]" : "text-white"
                 }`}
               >
-                Aventra
+                Oereo
               </span>
               <span
                 className={`caption-5 leading-none uppercase tracking-widest text-[9px] ${

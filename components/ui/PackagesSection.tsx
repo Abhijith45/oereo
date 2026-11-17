@@ -36,7 +36,7 @@ export function PackagesSection({
           Handcrafted Itineraries
         </span>
         <h2 className="heading-2 text-[#181818]">
-          The Aventra Experience
+          The Oereo Experience
         </h2>
         <p className="body-2 text-[#575753]">
           Seamless planning, curated boutique stays, and wonder in every turn.

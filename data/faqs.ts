@@ -7,9 +7,9 @@ export interface FaqItem {
 export const FAQ_ITEMS: FaqItem[] = [
   {
     id: "faq-1",
-    question: "What makes Aventra small group tours different from standard group travel?",
+    question: "What makes Oereo small group tours different from standard group travel?",
     answer:
-      "All Aventra expeditions are strictly capped at 12 to 16 guests. This allows us to access private heritage sites, boutique eco-lodges, family-owned vineyards, and secluded wilderness camps that large tour buses cannot reach, while keeping the pacing calm and unhurried.",
+      "All Oereo expeditions are strictly capped at 12 to 16 guests. This allows us to access private heritage sites, boutique eco-lodges, family-owned vineyards, and secluded wilderness camps that large tour buses cannot reach, while keeping the pacing calm and unhurried.",
   },
   {
     id: "faq-2",
@@ -37,7 +37,7 @@ export const FAQ_ITEMS: FaqItem[] = [
   },
   {
     id: "faq-6",
-    question: "How do Aventra journeys give back to local host communities?",
+    question: "How do Oereo journeys give back to local host communities?",
     answer:
       "Through our 1% for Planet Earth initiative and local heritage partnerships, a designated portion of every booking is directly invested into forest reforestation, marine sanctuary protection, and indigenous craft preservation in the exact regions we visit.",
   },

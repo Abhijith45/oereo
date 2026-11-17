@@ -17,7 +17,7 @@ export function TestimonialsSection() {
           Social Proof & Trust
         </span>
         <h2 className="heading-2 text-[#181818]">
-          The Aventra Experience <br className="hidden sm:inline" />
+          The Oereo Experience <br className="hidden sm:inline" />
           In Their Words
         </h2>
         <p className="body-2 text-[#575753]">

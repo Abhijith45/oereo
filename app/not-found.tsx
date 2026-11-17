@@ -18,7 +18,7 @@ export default function NotFound() {
             href="/"
             className="inline-flex items-center justify-center px-6 py-3 bg-[#181818] text-white rounded-full button-md hover:bg-black transition-colors"
           >
-            Return to Aventra Home
+            Return to Oereo Home
           </Link>
         </div>
       </div>

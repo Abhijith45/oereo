@@ -20,7 +20,7 @@ export const TESTIMONIALS: Testimonial[] = [
     rating: 5,
     tripTaken: "Japan Express",
     review:
-      "Aventra delivers seamless travel planning, expert guides, and unforgettable cultural experiences that made every destination smooth, meaningful, and perfectly organized throughout the journey.",
+      "Oereo delivers seamless travel planning, expert guides, and unforgettable cultural experiences that made every destination smooth, meaningful, and perfectly organized throughout the journey.",
   },
   {
     id: "review-2",

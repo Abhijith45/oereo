@@ -42,7 +42,7 @@ export function Footer() {
           {/* Col 1 */}
           <div className="space-y-4">
             <h4 className="caption-3 uppercase tracking-wider text-emerald-400 font-semibold">
-              About Aventra
+              About Oereo
             </h4>
             <ul className="space-y-2.5">
               {footerLinks.about.map((item) => (
@@ -120,7 +120,7 @@ export function Footer() {
         <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-neutral-400 caption-4">
           <div className="flex items-center gap-2">
             <GlobeHemisphereWest size={16} weight="bold" className="text-emerald-500" />
-            <span>&copy; {new Date().getFullYear()} Aventra Travel LLC. All rights reserved.</span>
+            <span>&copy; {new Date().getFullYear()} Oereo Travel LLC. All rights reserved.</span>
           </div>
           <div className="flex flex-wrap items-center gap-6">
             <Link href="#" className="hover:text-white transition-colors">
@@ -141,7 +141,7 @@ export function Footer() {
         {/* Giant Watermark Typography matching reference */}
         <div className="pt-8 select-none pointer-events-none text-center">
           <p className="text-[13vw] font-black leading-none tracking-tighter text-white/[0.04] uppercase">
-            AVENTRA TRAVEL
+            OEREO TRAVEL
           </p>
         </div>
       </div>

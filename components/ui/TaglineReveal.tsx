@@ -48,11 +48,11 @@ export function TaglineReveal() {
     <section
       ref={containerRef}
       className="py-20 md:py-28 px-4 md:px-8 max-w-7xl mx-auto flex flex-col items-center justify-center text-center"
-      aria-label="Aventra Philosophy"
+      aria-label="Oereo Philosophy"
     >
       <div className="max-w-[680px] mx-auto space-y-4">
         <span className="caption-3 uppercase tracking-widest text-emerald-800 font-semibold">
-          The Aventra Promise
+          The Oereo Promise
         </span>
 
         <h2 className="heading-3 md:heading-2 font-semibold text-[#181818] leading-tight">

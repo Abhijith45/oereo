@@ -18,7 +18,7 @@ export function DestinationsSection({ onSelectDestination }: DestinationsSection
         </span>
         <h2 className="heading-2 text-[#181818]">
           Curated Destinations <br className="hidden sm:inline" />
-          by Aventra
+          by Oereo
         </h2>
         <p className="body-2 text-[#575753]">
           From sacred alpine shrines to equatorial rainforests, each sanctuary is hand-selected for deep local resonance.

@@ -64,7 +64,7 @@ export function HeroSearch({ onSearch }: HeroSearchProps) {
       ref={containerRef}
       className="relative w-full max-w-4xl mx-auto z-30"
     >
-      <div className="bg-white/95 backdrop-blur-xl border border-[#E7E7E3] rounded-full p-2 shadow-lg flex flex-col md:flex-row items-stretch md:items-center divide-y md:divide-y-0 md:divide-x divide-[#E7E7E3]">
+      <div className="bg-white/95 backdrop-blur-xl border border-[#E7E7E3] sm:rounded-full p-2 shadow-lg flex flex-col md:flex-row items-stretch md:items-center divide-y md:divide-y-0 md:divide-x divide-[#E7E7E3]">
         {/* Field 1: Where */}
         <div className="relative flex-1 px-4 py-2 hover:bg-[#F9F9F8] rounded-full md:rounded-l-full cursor-pointer transition-colors duration-200">
           <button

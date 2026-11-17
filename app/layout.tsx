@@ -11,7 +11,7 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Aventra Travel | Curated Journeys & Luxury Small Group Adventures",
+  title: "Oereo Travel | Curated Journeys & Luxury Small Group Adventures",
   description:
     "Discover unmatched destinations and immersive luxury travel experiences crafted for modern explorers. Small groups, local expert guides, and guaranteed departures.",
   keywords: [
@@ -19,15 +19,15 @@ export const metadata: Metadata = {
     "small group tours",
     "curated expeditions",
     "adventure travel",
-    "Aventra travel",
+    "Oereo travel",
   ],
-  authors: [{ name: "Aventra Travel" }],
+  authors: [{ name: "Oereo Travel" }],
   openGraph: {
-    title: "Aventra Travel | Curated Journeys for Modern Explorers",
+    title: "Oereo Travel | Curated Journeys for Modern Explorers",
     description:
       "Handcrafted journeys with local guides, guaranteed departures, and 24/7 on ground support.",
-    url: "https://aventratravel.com",
-    siteName: "Aventra Travel",
+    url: "https://oereotravel.com",
+    siteName: "Oereo Travel",
     locale: "en_US",
     type: "website",
   },

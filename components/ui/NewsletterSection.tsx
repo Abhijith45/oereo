@@ -50,7 +50,7 @@ export function NewsletterSection({ onSelectTag }: { onSelectTag?: (tag: string)
 
     setTimeout(() => {
       setStatus("success");
-      setMessage("Welcome to Aventra Dispatches. Your inaugural route guide is on its way.");
+      setMessage("Welcome to Oereo Dispatches. Your inaugural route guide is on its way.");
       setEmail("");
       confetti({
         particleCount: 50,
@@ -84,6 +84,8 @@ export function NewsletterSection({ onSelectTag }: { onSelectTag?: (tag: string)
               <div className="relative flex items-center bg-white/10 border border-white/20 rounded-full p-1.5 focus-within:border-white focus-within:ring-2 focus-within:ring-white/20 transition-all">
                 <input
                   type="email"
+                  id="newsletter-email"
+                  name="email"
                   value={email}
                   onChange={(e) => {
                     setEmail(e.target.value);
